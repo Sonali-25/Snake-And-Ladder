@@ -1,0 +1,10 @@
+package com.empwage.builder;
+
+public class EmployeeWageCalculator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
